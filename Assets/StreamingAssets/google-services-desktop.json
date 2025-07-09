@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674663939536",
+    "project_id": "plinko-gold-rush-cedb9",
+    "storage_bucket": "plinko-gold-rush-cedb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674663939536:android:5154477bfdcf2003080dd5",
+        "android_client_info": {
+          "package_name": "com.droid.s"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZUfLRNpl9svG6LuqhYXku3EVJnP3Q18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">674663939536</string>
+  <string name="google_storage_bucket" translatable="false">plinko-gold-rush-cedb9.firebasestorage.app</string>
+  <string name="project_id" translatable="false">plinko-gold-rush-cedb9</string>
+  <string name="google_api_key" translatable="false">AIzaSyDwZUfLRNpl9svG6LuqhYXku3EVJnP3Q18</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDwZUfLRNpl9svG6LuqhYXku3EVJnP3Q18</string>
+  <string name="google_app_id" translatable="false">1:674663939536:android:5154477bfdcf2003080dd5</string>
+</resources>
